@@ -10,8 +10,8 @@
 
 ### Solução para o desafio
 Nesse repositório será encontrado dois arquivos com diferentes soluções:  
-[Arquivo que utiliza a estrutura condicional if...else if...else](desafio-calcPartRank-IfElseIf.js)  
-[Arquivo que utiliza a estrutura de decisão switch case](desafio-calcPartRank-SwitchCase.js)
+1. [Arquivo que utiliza a estrutura condicional if...else if...else](desafio-calcPartRank-IfElseIf.js)
+2. [Arquivo que utiliza a estrutura de decisão switch case](desafio-calcPartRank-SwitchCase.js)
 
 ## Instruções para entrega
 Deve ser utilizado:
