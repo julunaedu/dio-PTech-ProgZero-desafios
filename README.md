@@ -7,15 +7,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julunaedu)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---------------------------------------------------------------------------
+
 ## Desafios
 Nesse repositório será encontrado os três desafios:  
 <details>
   <summary> 1 Classificador de Nível de Herói </summary>
   
 #### Desafio do Módulo 4 - Dominando Estruturas de Controle 
-Pasta: []()  
-Desafio: []()  
-Solução: []()  
+Pasta: [desafio-classDeHeroi](desafio-classDeHeroi)  
+Desafio: [desafio-classDeHeroi/README.md](desafio-classDeHeroi/README.md)  
+Solução: [desafio-classDeHeroi/desafio-classDeHeroi.js](desafio-classDeHeroi/desafio-classDeHeroi.js)  
 
 </details>
 
@@ -23,10 +25,10 @@ Solução: []()
   <summary> 2 Calculadora de Partidas Rankeadas </summary>
 
   #### Desafio do Módulo 5 - Trabalhando com Funções  
-  Pasta: []()  
-  Desafio: []()  
-  Solução 1: []()  
-  Solução 2: []()  
+  Pasta: [desafio-calcPartRank](desafio-calcPartRank)  
+  Desafio: [desafio-calcPartRank/README.md](desafio-calcPartRank/README.md)  
+  Solução 1: [desafio-calcPartRank/desafio-calcPartRank-IfElseIf.js](desafio-calcPartRank/desafio-calcPartRank-IfElseIf.js)  
+  Solução 2: [desafio-calcPartRank/desafio-calcPartRank-SwitchCase.js](desafio-calcPartRank/desafio-calcPartRank-SwitchCase.js)  
 
 </details>
 
@@ -34,16 +36,11 @@ Solução: []()
   <summary> 3 Classes de Um Jogo </summary>
 
   #### Desafio do Módulo 7 - Estruturas de Dados e Objetos 
-  Pasta: []()  
-  Desafio: []()  
-  Solução: []()  
+  Pasta: [desafio-classesJogo](desafio-classesJogo)  
+  Desafio: [desafio-classesJogo/README.md](desafio-classesJogo/README.md)  
+  Solução: [desafio-classesJogo/desafio-classesJogo.js](desafio-classesJogo/desafio-classesJogo.js)  
 
 </details>
-
-<!--
-[Arquivo que utiliza a estrutura condicional if...else if...else](desafio-calcPartRank-IfElseIf.js)  
-[Arquivo que utiliza a estrutura de decisão switch case](desafio-calcPartRank-SwitchCase.js)
--->
 
 ---------------------------------------------------------------------------
 
